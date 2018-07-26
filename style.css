@@ -1,3 +1,8 @@
+.btn-link {
+	color: black !important;
+	text-decoration: none !important;
+} 
+
 .navbar {
 	position:fixed !important;
 	z-index:2;
@@ -56,6 +61,7 @@
     background-color: transparent;
     background-image: none;
     border-color: #FFB3DD;
+	
 }
 
 .jumbotron {
